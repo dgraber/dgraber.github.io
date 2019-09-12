@@ -2,6 +2,13 @@
     background-color: #000000;
 }
 
+.navExtension {
+    position: fixed;
+    width: 100%;
+    z-index: 9;
+    height: 45px;
+}
+
 .section {
     padding: 5px 15px;
 }
